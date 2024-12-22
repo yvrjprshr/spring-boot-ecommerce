@@ -117,16 +117,53 @@
 ![ecom12](https://github.com/user-attachments/assets/7ccba471-d414-4527-8178-4238ba594e0f)
 ---
 
+### Account gets lockout after 3 unsuccessfule attempt to login
 ![ecom13](https://github.com/user-attachments/assets/b200a129-9333-4187-9318-33a62b473fab)
+---
+
+### Locked account automatically unlocks after 3 second
 ![ecom14](https://github.com/user-attachments/assets/670c5fc8-b472-425a-9534-efa167e65852)
+---
+
+### Validation on Registration Page using Ajax
 ![ecom15](https://github.com/user-attachments/assets/b923cf0a-b0b4-4843-95f3-99257190189b)
+---
+
+### (user) View all categories and latest 6 products
 ![ecom16](https://github.com/user-attachments/assets/3a61c499-afc4-484c-a8cc-ac3cee290a75)
+---
+
+### (user) view all products
 ![ecom17](https://github.com/user-attachments/assets/2bb3bc25-41de-4b1a-8287-05ed27b598f8)
+---
+
+### (user) search products
 ![ecom18](https://github.com/user-attachments/assets/8b84012f-2b88-43fa-aa00-096e187e6f7a)
+---
+
+### (user) add product to cart 
 ![ecom19](https://github.com/user-attachments/assets/270a509a-e4db-444e-bb93-7741ac153127)
+---
+
+### order products from cart
 ![ecom20](https://github.com/user-attachments/assets/67ce13a0-4206-4605-a311-4ccb328cf21a)
+---
+
+### Validation on Billing page
 ![ecom21](https://github.com/user-attachments/assets/5cc824cf-e94a-486a-bf9c-fa84cbc7bfe0)
+---
+
+### Enter Billing adress and select payment type
 ![ecom22](https://github.com/user-attachments/assets/1bcffe9d-9b38-409c-96cb-3662d7919ccf)
+---
+
+### After successful order, logged in user receives a email
 ![ecom23](https://github.com/user-attachments/assets/ab6cb3dd-5800-4759-985b-57c638d687eb)
+---
+
+### Notification for successful order
 ![ecom24](https://github.com/user-attachments/assets/54cee7a9-11a5-443a-a0d3-301bc0534a87)
+---
+
+### View all orders
 ![ecom25](https://github.com/user-attachments/assets/19e8add6-ab89-4084-8599-6604d0d00934)
