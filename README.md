@@ -31,6 +31,7 @@
 - [x] Edit products
 - [x] Delete products
 - [x] View all products
+- [x] can update discount
 - [x] Pagination on products
 
 - [x] check all orders 
@@ -48,3 +49,21 @@
 
 
 # Functionalities for User
+
+- [x] view all categories on home page
+- [x] view latest 6 produts on home page
+- [x] view latest 6 produts on home page
+- [x] filter products by category
+- [x] search prodcuts with category or name
+- [x] add to cart
+- [x] order products from cart
+- [x] increase or decrease quantity of any product in cart
+- [x] enter billing address and order product
+- [x] view all orders for logged in user
+- [x] cancel any order
+- [x] after successful order or canceling any order, logged in user will receive email
+- [x] update profile
+- [x] change password
+- [x] account lockout after 3 unsuccessful attempt of login
+
+
