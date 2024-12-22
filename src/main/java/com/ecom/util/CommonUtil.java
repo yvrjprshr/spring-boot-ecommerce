@@ -67,7 +67,7 @@ public class CommonUtil {
 		MimeMessage message = mailSender.createMimeMessage();
 		MimeMessageHelper helper = new MimeMessageHelper(message);
 
-		helper.setFrom("yuvraparashar710@gmail.com", "Shooping Cart");
+		helper.setFrom("yuvraparashar710@gmail.com", "Shopping Cart");
 		helper.setTo(order.getOrderAddress().getEmail());
 
 		msg=msg.replace("[[name]]",order.getOrderAddress().getFirstName());
