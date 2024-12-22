@@ -48,7 +48,7 @@
 - [x] change password
 
 
-# Functionalities for User
+## Functionalities for User
 
 - [x] view all categories on home page
 - [x] view latest 6 produts on home page
@@ -66,4 +66,6 @@
 - [x] change password
 - [x] account lockout after 3 unsuccessful attempt of login
 
+
+## Images
 
